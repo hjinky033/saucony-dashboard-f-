@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+    <title>써코니 소재 마케팅 대시보드</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="./config.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        /* 로딩 화면 */
+        #loading {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            transition: opacity 0.3s;
+        }
+        
+        #loading.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+        
+        .spinner {
+            width: 60px;
+            height: 60px;
+            border: 6px solid #f3f3f3;
+            border-top: 6px solid #EEFF33;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .loading-text {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #333;
+        }
+        
+        .dashboard {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+            overflow: hidden;
+            border: 3px solid #EEFF33;
+        }
+        
+        /* 브랜드 헤더 */
+        .header {
+            background: #EEFF33;
+            color: #000000;
+            padding: 40px 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 10px,
+                rgba(0, 0, 0, 0.02) 10px,
+                rgba(0, 0, 0, 0.02) 20px
+            );
+            animation: slide 20s linear infinite;
+        }
+        
+        @keyframes slide {
+            0% { transform: translate(0, 0); }
+            100% { transform: translate(50px, 50px); }
+        }
+        
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+        
+        .brand-logo {
+            font-size: 2em;
+            font-weight: 900;
+            text-transform: lowercase;
+            letter-spacing: -1px;
+            margin-bottom: 15px;
+        }
+        
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.8;
+            font-weight: 500;
+        }
+        
+        /* 버전 정보 */
+        .version-info {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.1);
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 600;
+            z-index: 2;
+        }
+        
+        .last-update {
+            margin-top: 5px;
+            font-size: 0.85em;
+            opacity: 0.8;
+        }
+        
+        /* 새로고침 버튼 */
+        .refresh-button {
+            position: absolute;
+            top: 15px;
+            left: 20px;
+            background: rgba(0, 0, 0, 0.1);
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            z-index: 2;
+            border: none;
+            font-weight: 600;
+            font-size: 0.95em;
+        }
+        
+        .refresh-button:hover {
+            background: rgba(0, 0, 0, 0.2);
+            transform: translateY(-2px);
+        }
+        
+        .refresh-button:active {
+            transform: translateY(0);
+        }
+        
+        /* 필터 영역 */
+        .filters {
+            padding: 30px;
+            background: #fafafa;
+            border-bottom: 3px solid #EEFF33;
+        }
+        
+        .filters h3 {
+            margin-bottom: 20px;
+            color: #000000;
+            font-size: 1.3em;
+            font-weight: 700;
+        }
+        
+        .filter-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .filter-item label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .filter-item input,
+        .filter-item select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        
+        .filter-item input:focus,
+        .filter-item select:focus {
+            outline: none;
+            border-color: #EEFF33;
+            box-shadow: 0 0 0 3px rgba(238, 255, 51, 0.1);
+        }
+        
+        .filter-actions {
+            display: flex;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .btn {
+            padding: 12px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background: #EEFF33;
+            color: #000000;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(238, 255, 51, 0.3);
+        }
+        
+        .btn-secondary {
+            background: white;
+            color: #000000;
+            border: 2px solid #ddd;
+        }
+        
+        .btn-secondary:hover {
+            border-color: #EEFF33;
+        }
+        
+        /* 필터 현황 표시 */
+        .filter-status {
+            padding: 20px 30px;
+            background: white;
+            border-bottom: 1px solid #eee;
+            display: none;
+        }
+        
+        .filter-status.active {
+            display: block;
+        }
+        
+        .filter-status h4 {
+            margin-bottom: 15px;
+            color: #333;
+            font-size: 1.1em;
+        }
+        
+        .filter-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .filter-tag {
+            background: #EEFF33;
+            color: #000000;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .filter-tag .remove {
+            cursor: pointer;
+            font-weight: 700;
+            opacity: 0.7;
+        }
+        
+        .filter-tag .remove:hover {
+            opacity: 1;
+        }
+        
+        /* KPI 카드 */
+        .kpis {
+            padding: 30px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+        }
+        
+        .kpi-card {
+            background: linear-gradient(135deg, #EEFF33 0%, #d4e627 100%);
+            padding: 25px;
+            border-radius: 15px;
+            color: #000000;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            min-height: 140px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        
+        .kpi-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+        }
+        
+        .kpi-label {
+            font-size: 0.95em;
+            opacity: 0.8;
+            margin-bottom: 12px;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        
+        .kpi-value {
+            font-size: 1.8em;
+            font-weight: 900;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            line-height: 1.1;
+            margin-top: auto;
+        }
+        
+        .kpi-value.long {
+            font-size: 1.4em;
+        }
+        
+        .kpi-value.very-long {
+            font-size: 1.1em;
+        }
+        
+        /* 차트 섹션 */
+        .chart-section {
+            padding: 30px;
+            background: #fafafa;
+        }
+        
+        .chart-section h3 {
+            color: #000000;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+            font-weight: 700;
+        }
+        
+        .chart-container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border: 2px solid #EEFF33;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        
+        /* 갤러리 섹션 */
+        .gallery-section {
+            padding: 30px;
+            background: white;
+        }
+        
+        .gallery-section h3 {
+            color: #000000;
+            margin-bottom: 25px;
+            font-size: 1.5em;
+            font-weight: 700;
+            text-align: center;
+        }
+        
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+        
+        .gallery-item {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            border: 3px solid #EEFF33;
+        }
+        
+        .gallery-item:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .gallery-image {
+            width: 100%;
+            height: 280px;
+            object-fit: contain;
+            background: #f8f8f8;
+            padding: 10px;
+        }
+        
+        .gallery-info {
+            padding: 20px;
+        }
+        
+        .gallery-title {
+            font-weight: 700;
+            font-size: 1.1em;
+            margin-bottom: 12px;
+            color: #000000;
+        }
+        
+        .gallery-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            font-size: 0.9em;
+        }
+        
+        .stat {
+            text-align: center;
+            padding: 8px;
+            background: #f8f8f8;
+            border-radius: 6px;
+        }
+        
+        .stat-label {
+            font-size: 0.85em;
+            color: #666;
+            margin-bottom: 4px;
+        }
+        
+        .stat-value {
+            font-weight: 700;
+            color: #000000;
+        }
+        
+        /* 테이블 섹션 */
+        .table-section {
+            padding: 30px;
+            background: #fafafa;
+        }
+        
+        .table-section h3 {
+            color: #000000;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+            font-weight: 700;
+        }
+        
+        .table-search {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        .table-search input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        
+        .table-search input:focus {
+            outline: none;
+            border-color: #EEFF33;
+            box-shadow: 0 0 0 3px rgba(238, 255, 51, 0.1);
+        }
+        
+        .table-wrapper {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        
+        .table-scroll-container {
+            position: relative;
+            overflow-x: auto;
+            overflow-y: visible;
+            border-radius: 10px;
+            border: 1px solid #e0e0e0;
+            cursor: grab;
+        }
+        
+        .table-scroll-container:active {
+            cursor: grabbing;
+        }
+        
+        .table-scroll-container::-webkit-scrollbar {
+            height: 12px;
+        }
+        
+        .table-scroll-container::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+        
+        .table-scroll-container::-webkit-scrollbar-thumb {
+            background: #EEFF33;
+            border-radius: 10px;
+        }
+        
+        .table-scroll-container::-webkit-scrollbar-thumb:hover {
+            background: #d4e024;
+        }
+        
+        .table-container {
+            overflow: visible;
+        }
+        
+        table {
+            width: 100%;
+            min-width: 1800px;
+            border-collapse: collapse;
+            font-family: 'Pretendard', sans-serif;
+        }
+        
+        thead {
+            background: #EEFF33;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        th {
+            padding: 18px 15px;
+            text-align: left;
+            font-weight: 700;
+            color: #000000;
+            border-bottom: 3px solid #000000;
+            cursor: pointer;
+            user-select: none;
+            white-space: nowrap;
+        }
+        
+        th:hover {
+            background: #d4e627;
+        }
+        
+        th.sorted {
+            background: #d4e627;
+        }
+        
+        .sort-icon {
+            margin-left: 5px;
+            font-size: 0.8em;
+            opacity: 0.5;
+        }
+        
+        th.sorted .sort-icon {
+            opacity: 1;
+        }
+        
+        tbody tr {
+            border-bottom: 1px solid #f0f0f0;
+            transition: all 0.2s;
+        }
+        
+        tbody tr:hover {
+            background: #fafafa;
+        }
+        
+        td {
+            padding: 15px;
+            color: #333;
+        }
+        
+        .thumbnail {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            border-radius: 8px;
+            border: 2px solid #EEFF33;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: #f8f8f8;
+        }
+        
+        .thumbnail:hover {
+            transform: scale(3);
+            z-index: 1000;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        
+        .channel-badge {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+        
+        .badge-GFA {
+            background: #EEFF33;
+            color: #000000;
+        }
+        
+        .badge-네이버 {
+            background: #03C75A;
+            color: white;
+        }
+        
+        .badge-메타 {
+            background: #1877F2;
+            color: white;
+        }
+        
+        .badge-구글 {
+            background: #8B5CF6;
+            color: white;
+        }
+        
+        .badge-기타 {
+            background: #999;
+            color: white;
+        }
+        
+        .number {
+            text-align: right;
+            font-family: 'Pretendard', sans-serif;
+            font-variant-numeric: tabular-nums;
+        }
+        
+        .roas-high {
+            color: #16a34a;
+            font-weight: 700;
+        }
+        
+        .roas-medium {
+            color: #ca8a04;
+            font-weight: 700;
+        }
+        
+        .roas-low {
+            color: #dc2626;
+            font-weight: 700;
+        }
+        
+        @media (max-width: 768px) {
+            .dashboard {
+                border-radius: 0;
+            }
+            
+            .kpis {
+                grid-template-columns: 1fr;
+            }
+            
+            .gallery {
+                grid-template-columns: 1fr;
+            }
+            
+            .table-container {
+                overflow-x: auto;
+            }
+        }
+        
+        #creativeFilter {
+            height: 120px;
+        }
+        
+        .multi-select-hint {
+            font-size: 0.85em;
+            color: #666;
+            margin-top: 5px;
+            font-style: italic;
+        }
+    
+    /* ========== 반응형 CSS 추가 (v18) ========== */
+    
+    /* 모바일 기본 스타일 (360px ~ 767px) */
+    @media (max-width: 767px) {
+        body {
+            padding: 10px;
+            font-size: 14px;
+        }
+        
+        /* 모바일에서 버튼/정보 숨김 */
+        .refresh-button {
+            display: none !important;
+        }
+        
+        .version-info {
+            display: none !important;
+        }
+        
+        .header {
+            padding: 20px 10px !important;
+            min-height: auto !important;
+        }
+        
+        .header-content {
+            margin-top: 0 !important;
+        }
+        
+        .brand-logo {
+            font-size: 1.5em !important;
+            margin-bottom: 8px !important;
+        }
+        
+        .header h1 {
+            font-size: 17px !important;
+            line-height: 1.4 !important;
+            margin-bottom: 5px !important;
+        }
+        
+        .header p {
+            font-size: 13px !important;
+            line-height: 1.3 !important;
+        }
+        
+        .dashboard-container {
+            padding: 10px !important;
+        }
+        
+        /* 필터 영역 */
+        .filter-section {
+            flex-direction: column !important;
+            gap: 10px !important;
+        }
+        
+        .filter-group {
+            width: 100% !important;
+            margin: 0 !important;
+        }
+        
+        .filter-group label {
+            font-size: 12px !important;
+        }
+        
+        .filter-group select,
+        .filter-group input {
+            width: 100% !important;
+            font-size: 14px !important;
+            padding: 8px !important;
+        }
+        
+        /* 메트릭 카드 */
+        .metrics-grid {
+            grid-template-columns: repeat(2, 1fr) !important;
+            gap: 10px !important;
+        }
+        
+        .metric-card {
+            padding: 12px !important;
+        }
+        
+        .metric-card h3 {
+            font-size: 12px !important;
+        }
+        
+        .metric-card .value {
+            font-size: 20px !important;
+        }
+        
+        /* 차트 영역 */
+        .charts-section {
+            flex-direction: column !important;
+        }
+        
+        .chart-container {
+            width: 100% !important;
+            min-height: 250px !important;
+        }
+        
+        /* Top 5 갤러리 */
+        .top5-gallery {
+            grid-template-columns: 1fr !important;
+            gap: 10px !important;
+        }
+        
+        .gallery-item {
+            padding: 10px !important;
+        }
+        
+        .gallery-item img {
+            max-height: 150px !important;
+        }
+        
+        .gallery-metrics {
+            flex-direction: column !important;
+            gap: 5px !important;
+        }
+        
+        .gallery-metric {
+            font-size: 11px !important;
+        }
+        
+        /* 테이블 */
+        .data-table {
+            font-size: 11px !important;
+            overflow-x: auto !important;
+            display: block !important;
+        }
+        
+        .data-table table {
+            min-width: 600px !important;
+        }
+        
+        .data-table th,
+        .data-table td {
+            padding: 6px 8px !important;
+        }
+    }
+    
+    /* 태블릿 (768px ~ 1024px) */
+    @media (min-width: 768px) and (max-width: 1024px) {
+        .dashboard-container {
+            padding: 20px !important;
+        }
+        
+        .metrics-grid {
+            grid-template-columns: repeat(3, 1fr) !important;
+        }
+        
+        .charts-section {
+            flex-direction: column !important;
+        }
+        
+        .chart-container {
+            width: 100% !important;
+        }
+        
+        .top5-gallery {
+            grid-template-columns: repeat(2, 1fr) !important;
+        }
+    }
+    
+    /* 데스크톱 (1025px 이상) */
+    @media (min-width: 1025px) {
+        .dashboard-container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .metrics-grid {
+            grid-template-columns: repeat(4, 1fr);
+        }
+        
+        .charts-section {
+            display: flex;
+            gap: 20px;
+        }
+        
+        .chart-container {
+            flex: 1;
+        }
+        
+        .top5-gallery {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+    
+    /* 공통 반응형 유틸리티 */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    .responsive-hide-mobile {
+        display: none;
+    }
+    
+    @media (min-width: 768px) {
+        .responsive-hide-mobile {
+            display: block;
+        }
+        
+        .responsive-hide-desktop {
+            display: none !important;
+        }
+    }
+</style>
+
+</head>
+<body>
+    <!-- 로딩 화면 -->
+    <div id="loading">
+        <div class="spinner"></div>
+        <div class="loading-text">데이터 로딩 중...</div>
+    </div>
+
+    <div class="dashboard">
+        <!-- 헤더 -->
+        <div class="header">
+            <button class="refresh-button" onclick="refreshData()">🔄 새로고침</button>
+            <div class="version-info">
+                <div id="versionText">v20-web</div>
+                <div class="last-update" id="lastUpdate">로딩 중...</div>
+            </div>
+            <div class="header-content">
+                <div class="brand-logo">saucony</div>
+                <h1>써코니 소재 마케팅 대시보드</h1>
+                <p>실시간 광고 성과 분석 및 인사이트</p>
+            </div>
+        </div>
+        
+        <!-- 필터 영역 -->
+        <div class="filters">
+            <h3>📊 데이터 필터링</h3>
+            <div class="filter-group">
+                <div class="filter-item">
+                    <label>시작 날짜</label>
+                    <input type="date" id="startDate">
+                </div>
+                <div class="filter-item">
+                    <label>종료 날짜</label>
+                    <input type="date" id="endDate">
+                </div>
+                <div class="filter-item">
+                    <label>채널</label>
+                    <select id="channelFilter" onchange="applyFilters()">
+                        <option value="all">전체</option>
+                    </select>
+                </div>
+                <div class="filter-item">
+                    <label>캠페인</label>
+                    <select id="campaignFilter" onchange="applyFilters()">
+                        <option value="all">전체</option>
+                    </select>
+                </div>
+                <div class="filter-item">
+                    <label>광고그룹</label>
+                    <select id="adGroupFilter" onchange="applyFilters()">
+                        <option value="all">전체</option>
+                    </select>
+                </div>
+                <div class="filter-item">
+                    <label>소재 (다중 선택 가능)</label>
+                    <select id="creativeFilter" multiple>
+                        <option value="all" selected>전체</option>
+                    </select>
+                    <div class="multi-select-hint">💡 Ctrl (Cmd) + 클릭으로 다중 선택</div>
+                </div>
+            </div>
+            <div class="filter-actions">
+                <button class="btn btn-primary" onclick="applyFilters()">필터 적용</button>
+                <button class="btn btn-secondary" onclick="resetFilters()">초기화</button>
+            </div>
+        </div>
+        
+        <!-- 필터 현황 -->
+        <div class="filter-status" id="filterStatus">
+            <h4>🔍 적용된 필터</h4>
+            <div class="filter-tags" id="filterTags"></div>
+        </div>
+        
+        <!-- KPI 카드 -->
+        <div class="kpis">
+            <div class="kpi-card">
+                <div class="kpi-label">총 노출수</div>
+                <div class="kpi-value" id="kpi-impressions">0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">총 클릭수</div>
+                <div class="kpi-value" id="kpi-clicks">0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">평균 CTR</div>
+                <div class="kpi-value" id="kpi-ctr">0%</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">평균 CPC</div>
+                <div class="kpi-value" id="kpi-cpc">₩0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">총 비용</div>
+                <div class="kpi-value" id="kpi-cost">₩0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">총 전환수</div>
+                <div class="kpi-value" id="kpi-conversions">0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">평균 CVR</div>
+                <div class="kpi-value" id="kpi-cvr">0%</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">전환매출액</div>
+                <div class="kpi-value" id="kpi-revenue">₩0</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">광고 ROAS</div>
+                <div class="kpi-value" id="kpi-roas">0%</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">평균 CPA</div>
+                <div class="kpi-value" id="kpi-cpa">₩0</div>
+            </div>
+        </div>
+        
+        <!-- 매체별 운영 비율 -->
+        <div class="chart-section">
+            <h3>💰 매체별 운영 비율</h3>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+                <div>
+                    <h4 style="text-align: center; margin-bottom: 15px; font-size: 1.1em;">총비용 비중</h4>
+                    <div class="chart-container">
+                        <canvas id="costChart"></canvas>
+                    </div>
+                </div>
+                <div>
+                    <h4 style="text-align: center; margin-bottom: 15px; font-size: 1.1em;">전환매출액 비중</h4>
+                    <div class="chart-container">
+                        <canvas id="revenueChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- TOP 5 매출 갤러리 -->
+        <div class="gallery-section">
+            <h3>🏆 TOP 5 소재 (매출 기준)</h3>
+            <div class="gallery" id="topRevenue"></div>
+        </div>
+        
+        <!-- TOP 5 CTR 갤러리 -->
+        <div class="gallery-section">
+            <h3>👆 TOP 5 소재 (CTR 기준)</h3>
+            <div class="gallery" id="topCTR"></div>
+        </div>
+        
+        <!-- TOP 5 CVR 갤러리 -->
+        <div class="gallery-section">
+            <h3>✨ TOP 5 소재 (CVR 기준)</h3>
+            <div class="gallery" id="topCVR"></div>
+        </div>
+        
+        <!-- 테이블 섹션 -->
+        <div class="table-section">
+            <h3>📋 전체 성과 데이터 (총 <span id="tableCount">0</span>개)</h3>
+            
+            <div class="table-search">
+                <input type="text" id="tableSearchInput" placeholder="소재명, 채널, 캠페인, 광고그룹으로 검색...">
+            </div>
+            
+            <div class="table-wrapper">
+                <div class="table-scroll-container" id="tableScrollContainer">
+                    <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th onclick="sortTable('rank')">순위 <span class="sort-icon">▼</span></th>
+                            <th>미리보기</th>
+                            <th onclick="sortTable('creative')">소재명 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('channel')">채널 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('campaign')">캠페인 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('adGroup')">광고그룹 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('impressions')">노출수 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('clicks')">클릭수 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('ctr')">CTR <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('cpc')">CPC <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('cost')">비용 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('conversions')">전환수 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('cvr')">CVR <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('revenue')">전환매출액 <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('cpa')">CPA <span class="sort-icon">▼</span></th>
+                            <th onclick="sortTable('roas')">ROAS <span class="sort-icon">▼</span></th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                    </tbody>
+                </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="./dashboard.js"></script>
+</body>
+</html>
