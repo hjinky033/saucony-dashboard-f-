@@ -1,0 +1,8452 @@
+[
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 498,
+    "clicks": 20,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 811,
+    "clicks": 29,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 545,
+    "clicks": 21,
+    "revenue": 111300
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 177,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 231,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 131,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 19,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 3",
+    "impressions": 94,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 2",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 1376,
+    "clicks": 19,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 1354,
+    "clicks": 21,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 723,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 683,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 446,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 407,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 143,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_제품 1 1",
+    "impressions": 274,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 609,
+    "clicks": 18,
+    "revenue": 299000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 738,
+    "clicks": 35,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 583,
+    "clicks": 21,
+    "revenue": 261200
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 396,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 524,
+    "clicks": 20,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 322,
+    "clicks": 14,
+    "revenue": 383500
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 193,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 425,
+    "clicks": 25,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 375,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 648,
+    "clicks": 20,
+    "revenue": 738750
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 714,
+    "clicks": 20,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 336,
+    "clicks": 13,
+    "revenue": 578000
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 581,
+    "clicks": 28,
+    "revenue": 191750
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 231,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 127,
+    "clicks": 10,
+    "revenue": 191750
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 13,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 316,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 491,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 142,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 483,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 496,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 416,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 242,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 110,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 209,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 216,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 158,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 181,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 90,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 16,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 80,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 520,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 2274,
+    "clicks": 43,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 1893,
+    "clicks": 43,
+    "revenue": 269100
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 4564,
+    "clicks": 77,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 2858,
+    "clicks": 54,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 2819,
+    "clicks": 60,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 1561,
+    "clicks": 34,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 1456,
+    "clicks": 38,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 808,
+    "clicks": 27,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 4971,
+    "clicks": 29,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 4101,
+    "clicks": 36,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 2441,
+    "clicks": 13,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 4671,
+    "clicks": 28,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 4985,
+    "clicks": 30,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 2046,
+    "clicks": 23,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 1122,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 1816,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 26,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 19,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 72,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 107,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 375,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 47,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 52,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 3",
+    "impressions": 198,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 2",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 2",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 2",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 2",
+    "impressions": 8,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 2",
+    "impressions": 5,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 2",
+    "impressions": 12,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 2",
+    "impressions": 111,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 21,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 37,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 29,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 28,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 11,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 8,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 37,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_제품 1",
+    "impressions": 539,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 5,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 31,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 1686,
+    "clicks": 67,
+    "revenue": 388000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 1860,
+    "clicks": 75,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 2072,
+    "clicks": 75,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 635,
+    "clicks": 44,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 82,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 15,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 7,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 69,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 87,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 78,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 20,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 38,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 91,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 34,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 674,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 632,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 178,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 1053,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 851,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 300,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 162,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 212,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 2419,
+    "clicks": 74,
+    "revenue": 269100
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 3620,
+    "clicks": 144,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 4817,
+    "clicks": 173,
+    "revenue": 459100
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 885,
+    "clicks": 41,
+    "revenue": 269100
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 2644,
+    "clicks": 110,
+    "revenue": 588000
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 2267,
+    "clicks": 123,
+    "revenue": 299000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 1194,
+    "clicks": 71,
+    "revenue": 891500
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 540,
+    "clicks": 50,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 13,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 13,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 7,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 47,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 434,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 714,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 88,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 351,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 562,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 527,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 309,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 163,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 6401,
+    "clicks": 110,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 10669,
+    "clicks": 196,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 9729,
+    "clicks": 186,
+    "revenue": 109000
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 9355,
+    "clicks": 172,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 14242,
+    "clicks": 214,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 7302,
+    "clicks": 137,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 4371,
+    "clicks": 104,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 5145,
+    "clicks": 109,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 740,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 910,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 649,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 635,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 1098,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 1170,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 995,
+    "clicks": 16,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 1048,
+    "clicks": 17,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 14469,
+    "clicks": 37,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 7656,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 2601,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 3665,
+    "clicks": 16,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 20085,
+    "clicks": 47,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 11879,
+    "clicks": 47,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 8683,
+    "clicks": 33,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_KV 1",
+    "impressions": 22756,
+    "clicks": 70,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 6931,
+    "clicks": 155,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 12474,
+    "clicks": 231,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 11778,
+    "clicks": 233,
+    "revenue": 431300
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 10190,
+    "clicks": 156,
+    "revenue": 288150
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 9692,
+    "clicks": 132,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 2040,
+    "clicks": 53,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 1468,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 1245,
+    "clicks": 30,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 765,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 1498,
+    "clicks": 22,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 1456,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 1959,
+    "clicks": 19,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 2501,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 292,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 156,
+    "clicks": 4,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 215,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 4761,
+    "clicks": 17,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 1424,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 281,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 1261,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 3675,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 3012,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 4293,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 20327,
+    "clicks": 51,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 418,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 326,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 36,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 156,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 426,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 237,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 492,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 742,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 389,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 476,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 74,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 205,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 569,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 249,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 601,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 968,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_피드",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 41,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 53,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 263,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 793,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 773,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 5,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 54,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 190,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 88,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 210,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 81,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 87,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 406,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 10,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 16,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 93,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 430,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 387,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 304,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 229,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 280,
+    "clicks": 11,
+    "revenue": 370850
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 151,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(PC)",
+    "impressions": 86,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 868,
+    "clicks": 32,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 1411,
+    "clicks": 61,
+    "revenue": 170100
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 1289,
+    "clicks": 52,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 897,
+    "clicks": 46,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 아주라_배너형(모바일)",
+    "impressions": 326,
+    "clicks": 17,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 491,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 509,
+    "clicks": 28,
+    "revenue": 588000
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 1519,
+    "clicks": 38,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 1444,
+    "clicks": 43,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(PC)",
+    "impressions": 268,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 345,
+    "clicks": 21,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 40,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 14,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 14,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀프로5_배너형(모바일)",
+    "impressions": 11,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 182,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 645,
+    "clicks": 22,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 1192,
+    "clicks": 24,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 313,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 584,
+    "clicks": 13,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 750,
+    "clicks": 17,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 476,
+    "clicks": 24,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 3",
+    "impressions": 522,
+    "clicks": 28,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 80,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 137,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 200,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 159,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 103,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 13,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 26,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 2",
+    "impressions": 96,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 3599,
+    "clicks": 45,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 6916,
+    "clicks": 61,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 8405,
+    "clicks": 67,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 4322,
+    "clicks": 45,
+    "revenue": 314100
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 2444,
+    "clicks": 29,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 2669,
+    "clicks": 32,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 486,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_제품 1",
+    "impressions": 154,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 2003,
+    "clicks": 69,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 1109,
+    "clicks": 39,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 984,
+    "clicks": 31,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 93,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 300,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 26,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 12,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 3",
+    "impressions": 67,
+    "clicks": 1,
+    "revenue": 191750
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 17,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 29,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 12,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 13,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 35,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 15,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 21,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV 2",
+    "impressions": 80,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 28,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 81,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 58,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 44,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 71,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 165,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 254,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀프로5_KV",
+    "impressions": 181,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 88,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 417,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 569,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 180,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 411,
+    "clicks": 13,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 210,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 324,
+    "clicks": 13,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 3",
+    "impressions": 213,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 165,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 589,
+    "clicks": 16,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 1313,
+    "clicks": 24,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 807,
+    "clicks": 24,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 724,
+    "clicks": 19,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 488,
+    "clicks": 22,
+    "revenue": 289000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 258,
+    "clicks": 12,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 2",
+    "impressions": 162,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 60,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 76,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 20,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 25,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 30,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 48,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 55,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_제품컷 1",
+    "impressions": 174,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 33,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 107,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 98,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 88,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 24,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 44,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 3",
+    "impressions": 100,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 29,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 32,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 58,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 57,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 36,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 11,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 35,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 2",
+    "impressions": 53,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 357,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 788,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 651,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 919,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 606,
+    "clicks": 9,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 92,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 65,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "엔돌핀아주라_KV 1",
+    "impressions": 157,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1377,
+    "clicks": 51,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 132,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 17,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 5,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 276,
+    "clicks": 11,
+    "revenue": 191750
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 441,
+    "clicks": 17,
+    "revenue": 727200
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 262,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 234,
+    "clicks": 10,
+    "revenue": 672600
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 254,
+    "clicks": 4,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 105,
+    "clicks": 2,
+    "revenue": 368000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 63,
+    "clicks": 2,
+    "revenue": 661650
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 792,
+    "clicks": 22,
+    "revenue": 741500
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 18,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 33,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 9,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 18,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 19,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 13,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 189000
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 102,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 11,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 41,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 8,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 18,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 37,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 16,
+    "clicks": 0,
+    "revenue": 189000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 90,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 179100
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 398000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 859,
+    "clicks": 18,
+    "revenue": 189000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 585250
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 13,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 9,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 16,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 2,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 27,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 50000
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 429,
+    "clicks": 7,
+    "revenue": 111300
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 8,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 63,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 68,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 10,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 1682,
+    "clicks": 17,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 796,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 63,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 106,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 138,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 71,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 44,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 167,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 211,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 28,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 9,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 3,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 5682,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1546,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 286,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 1527,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 3580,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 2874,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 2063,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 13182,
+    "clicks": 36,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 9286,
+    "clicks": 72,
+    "revenue": 303150
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 17226,
+    "clicks": 164,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 9947,
+    "clicks": 100,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 11374,
+    "clicks": 106,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 22133,
+    "clicks": 152,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 6776,
+    "clicks": 50,
+    "revenue": 289000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 3457,
+    "clicks": 35,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 3",
+    "impressions": 8357,
+    "clicks": 99,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 1249,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 1047,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 389,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 2652,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 2590,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 595,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 159,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 2",
+    "impressions": 134,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 54085,
+    "clicks": 192,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 46755,
+    "clicks": 184,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 47890,
+    "clicks": 209,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 50197,
+    "clicks": 210,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 47150,
+    "clicks": 159,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 52750,
+    "clicks": 220,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 80459,
+    "clicks": 314,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "설 프로모션 1차 1",
+    "impressions": 85981,
+    "clicks": 367,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 212,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 454,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 612,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 1426,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 1974,
+    "clicks": 22,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 1024,
+    "clicks": 16,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 1539,
+    "clicks": 16,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 883,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 3722,
+    "clicks": 158,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 5232,
+    "clicks": 148,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 8529,
+    "clicks": 326,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 16418,
+    "clicks": 536,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 16957,
+    "clicks": 451,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 16950,
+    "clicks": 489,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 16771,
+    "clicks": 467,
+    "revenue": 191750
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 18754,
+    "clicks": 568,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 79,
+    "clicks": 3,
+    "revenue": 289000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 100,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 281,
+    "clicks": 8,
+    "revenue": 537200
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 298,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 1273,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 1253,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 1798,
+    "clicks": 22,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(PC)",
+    "impressions": 656,
+    "clicks": 19,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 71,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 77,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 53,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 84,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 494,
+    "clicks": 10,
+    "revenue": 191750
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 551,
+    "clicks": 11,
+    "revenue": 767000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 437,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "설 프로모션 1차_배너형(모바일)",
+    "impressions": 708,
+    "clicks": 13,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 15,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 15,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 9,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 7,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 8,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "패션/라이프스타일",
+    "creative": "트리플블랙 에디션",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 1746,
+    "clicks": 53,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 888,
+    "clicks": 27,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 93,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 264,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 518,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 531,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 706,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 3_스퀘어형",
+    "impressions": 899,
+    "clicks": 22,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 3889,
+    "clicks": 29,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 3579,
+    "clicks": 25,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 13318,
+    "clicks": 104,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 14707,
+    "clicks": 125,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 14970,
+    "clicks": 68,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 33119,
+    "clicks": 126,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 37807,
+    "clicks": 217,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(PC)",
+    "impressions": 5928,
+    "clicks": 40,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 211,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 321,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 175,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 85,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 279,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 69,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 106,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 2_배너형(모바일)",
+    "impressions": 463,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 209,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 105,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 64,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 255,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 385,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 309,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 283,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "라이드 19 1_피드형",
+    "impressions": 823,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 690,
+    "clicks": 30,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 327,
+    "clicks": 22,
+    "revenue": 466250
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 403,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 810,
+    "clicks": 30,
+    "revenue": 271200
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 667,
+    "clicks": 27,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1285,
+    "clicks": 47,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1049,
+    "clicks": 57,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "CRM타겟_최근 2주 이내 방문",
+    "creative": "트리플블랙 에디션",
+    "impressions": 1439,
+    "clicks": 59,
+    "revenue": 517300
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 102,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 121,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 328,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 337,
+    "clicks": 2,
+    "revenue": 111300
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 1515,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 1633,
+    "clicks": 27,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 1717,
+    "clicks": 26,
+    "revenue": 191750
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(PC)",
+    "impressions": 638,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 107,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 170,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 114,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 199,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 831,
+    "clicks": 15,
+    "revenue": 179000
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 1103,
+    "clicks": 23,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 1296,
+    "clicks": 22,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "알림받기타겟",
+    "creative": "엔돌핀 스피드 5_세계 7대 마라톤 에디션_배너형(모바일)",
+    "impressions": 1522,
+    "clicks": 28,
+    "revenue": 100300
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 3",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 5,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 14,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "프로그리드 옴니 9 2",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 14,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 5,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "프로그리드 옴니 9 1",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 73,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 78,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 64,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 98,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 99,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 126,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 127,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 294,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 418,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 555,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 3764,
+    "clicks": 17,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 3716,
+    "clicks": 21,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 2111,
+    "clicks": 20,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 3614,
+    "clicks": 25,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 3241,
+    "clicks": 25,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 234,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 6,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 32,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 56,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 78,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 48,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 75,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 104,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 82,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 63,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 124,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 95,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 322,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 345,
+    "clicks": 13,
+    "revenue": 522400
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 882,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 472,
+    "clicks": 20,
+    "revenue": 179100
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 148,
+    "clicks": 4,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 226,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 944,
+    "clicks": 20,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 363,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 714,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 812,
+    "clicks": 17,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 1781,
+    "clicks": 38,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 192,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 139,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 42,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 48,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 24,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 71,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 72,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 3_스퀘어형",
+    "impressions": 160,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 2062,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 1795,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 8575,
+    "clicks": 65,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 10820,
+    "clicks": 70,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 18142,
+    "clicks": 62,
+    "revenue": 169100
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 31232,
+    "clicks": 96,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 25319,
+    "clicks": 97,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(PC)",
+    "impressions": 2345,
+    "clicks": 14,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 80,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 129,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 42,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 51,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 409,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 394,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 90,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 2_배너형(모바일)",
+    "impressions": 285,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 37,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 46,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 10,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 59,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 271,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 169,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 214,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션 1_피드형",
+    "impressions": 667,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 498,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 512,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 321,
+    "clicks": 9,
+    "revenue": 289000
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 434,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 425,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 320,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 1273,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 3",
+    "impressions": 5596,
+    "clicks": 64,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 105,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 111,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 54,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 129,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 292,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 139,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 396,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 2",
+    "impressions": 1433,
+    "clicks": 16,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 5760,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 1523,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 228,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 1567,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 3329,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 2343,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 2671,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "마라톤에디션(KV) 1",
+    "impressions": 16031,
+    "clicks": 50,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 45,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 42,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 10,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 16,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 8,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 15,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 32,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 3",
+    "impressions": 2342,
+    "clicks": 18,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 51,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 61,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 13,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 18,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 33,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 78,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 40,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 2",
+    "impressions": 26,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 5747,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 2224,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 310,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 1766,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 2649,
+    "clicks": 13,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 1482,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 1590,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "트레이너80(KV) 1",
+    "impressions": 11777,
+    "clicks": 27,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 3",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 3",
+    "impressions": 5,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 3",
+    "impressions": 763,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 2",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 2",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 2",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 2",
+    "impressions": 1,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 119,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 238,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 281,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 821,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 258,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 360,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 953,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "AI확장타겟_50만",
+    "creative": "마라톤에디션 1",
+    "impressions": 1199,
+    "clicks": 7,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 296200
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 439350
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 664700
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 3",
+    "impressions": 681,
+    "clicks": 11,
+    "revenue": 739200
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 2",
+    "impressions": 130,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 25,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 75,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 40,
+    "clicks": 0,
+    "revenue": 400300
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 96300
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 30,
+    "clicks": 0,
+    "revenue": 209000
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 202,
+    "clicks": 2,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "마라톤 에디션 1",
+    "impressions": 2020,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 249,
+    "clicks": 13,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 67,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 46,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 130,
+    "clicks": 7,
+    "revenue": 189000
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 138,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 396,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 256,
+    "clicks": 8,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_컬렉션",
+    "impressions": 1129,
+    "clicks": 41,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 166,
+    "clicks": 3,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 105,
+    "clicks": 5,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 44,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 117,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 155,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 395,
+    "clicks": 6,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 312,
+    "clicks": 11,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_스퀘어형",
+    "impressions": 400,
+    "clicks": 8,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 450,
+    "clicks": 4,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 248,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 1224,
+    "clicks": 4,
+    "revenue": 170100
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 2492,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 1028,
+    "clicks": 9,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 1294,
+    "clicks": 12,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 1735,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(PC)",
+    "impressions": 200,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 10,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 3,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 15,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 21,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 4,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 16,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션_배너형(모바일)",
+    "impressions": 25,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "마라톤에디션 피드형",
+    "impressions": 2,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "3. 트래픽 캠페인",
+    "adGroup": "관심사/구매의도 그룹",
+    "creative": "권화운_피드형",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 289000
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "스토어 리타겟팅",
+    "creative": "프로그리드 옴니 9 ARMOR 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 프로 4 2_배너형(모바일)",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "4.쇼핑 프로모션",
+    "adGroup": "관심사/구매의도",
+    "creative": "엔돌핀 프로 4 2_배너형(모바일)",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 10500,
+    "clicks": 431,
+    "revenue": 659850
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 10770,
+    "clicks": 426,
+    "revenue": 1100850
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 11280,
+    "clicks": 412,
+    "revenue": 1719700
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 10857,
+    "clicks": 420,
+    "revenue": 1266500
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 11623,
+    "clicks": 391,
+    "revenue": 899150
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 10128,
+    "clicks": 429,
+    "revenue": 1497110
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 11367,
+    "clicks": 418,
+    "revenue": 1728350
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "0. 카탈로그 캠페인",
+    "adGroup": "전체 상품",
+    "creative": "광고 소재#2509041626",
+    "impressions": 13722,
+    "clicks": 490,
+    "revenue": 1563550
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀 프로 4_제품컷 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 329000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀 프로 4_제품컷 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 101300
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀 프로 4_제품컷 3",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "GFA",
+    "campaign": "2. 전환 캠페인",
+    "adGroup": "고객여정타겟",
+    "creative": "엔돌핀 프로 4_제품컷 1",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 4405,
+    "clicks": 183,
+    "revenue": 433750
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 5156,
+    "clicks": 224,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_영상",
+    "impressions": 2134,
+    "clicks": 101,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 3973,
+    "clicks": 182,
+    "revenue": 288000
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 6202,
+    "clicks": 344,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_영상",
+    "impressions": 536,
+    "clicks": 29,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 3827,
+    "clicks": 109,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "메타",
+    "campaign": "설 프로모션_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)설 프로모션_카탈로그_판매",
+    "impressions": 1820,
+    "clicks": 90,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "메타",
+    "campaign": "설 프로모션_판매",
+    "adGroup": "반응타겟)조회 및 장바구니",
+    "creative": "M)설 프로모션_카탈로그_판매",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 18000
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 6124,
+    "clicks": 451,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 2330,
+    "clicks": 68,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "메타",
+    "campaign": "설 프로모션_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)설 프로모션_카탈로그_판매",
+    "impressions": 10966,
+    "clicks": 282,
+    "revenue": 71400
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "메타",
+    "campaign": "설 프로모션_판매",
+    "adGroup": "반응타겟)조회 및 장바구니",
+    "creative": "M)설 프로모션_카탈로그_판매",
+    "impressions": 505,
+    "clicks": 25,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 1236,
+    "clicks": 113,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 0,
+    "clicks": 0,
+    "revenue": 306500
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 2209,
+    "clicks": 134,
+    "revenue": 169000
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 1615,
+    "clicks": 88,
+    "revenue": 287700
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "메타",
+    "campaign": "카탈로그_판매",
+    "adGroup": "맞춤+상세타겟)인스타방문+관심사",
+    "creative": "M)카탈로그_판매",
+    "impressions": 2618,
+    "clicks": 142,
+    "revenue": 818800
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 3032,
+    "clicks": 113,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라_트래픽",
+    "adGroup": "저장+상세타겟)카탈로그+관심사",
+    "creative": "M)엔돌핀아주라_영상",
+    "impressions": 1419,
+    "clicks": 86,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 346,
+    "clicks": 15,
+    "revenue": 189000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 490,
+    "clicks": 16,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_KV",
+    "impressions": 318,
+    "clicks": 14,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_영상",
+    "impressions": 445,
+    "clicks": 10,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_영상",
+    "impressions": 400,
+    "clicks": 15,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_영상",
+    "impressions": 14,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_영상2번",
+    "impressions": 56,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_영상2번",
+    "impressions": 98,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀아주라_영상2번",
+    "impressions": 225,
+    "clicks": 1,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀프로5_KV",
+    "impressions": 2401,
+    "clicks": 156,
+    "revenue": 558000
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀프로5_KV",
+    "impressions": 1107,
+    "clicks": 80,
+    "revenue": 199000
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "메타",
+    "campaign": "엔돌핀아주라&프로5_판매",
+    "adGroup": "상세타겟)관심사",
+    "creative": "M)엔돌핀프로5_KV",
+    "impressions": 24,
+    "clicks": 0,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-01",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 1798,
+    "clicks": 118,
+    "revenue": 363500
+  },
+  {
+    "date": "2026-02-02",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 2695,
+    "clicks": 159,
+    "revenue": 402109
+  },
+  {
+    "date": "2026-02-03",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 824,
+    "clicks": 56,
+    "revenue": 0
+  },
+  {
+    "date": "2026-02-04",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 490,
+    "clicks": 41,
+    "revenue": 271200
+  },
+  {
+    "date": "2026-02-05",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 482,
+    "clicks": 59,
+    "revenue": 253320
+  },
+  {
+    "date": "2026-02-06",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 525,
+    "clicks": 77,
+    "revenue": 127569
+  },
+  {
+    "date": "2026-02-07",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 489,
+    "clicks": 74,
+    "revenue": 351458
+  },
+  {
+    "date": "2026-02-08",
+    "channel": "구글",
+    "campaign": "실적최대화",
+    "adGroup": "잠재고객+검색타겟",
+    "creative": "G)실적최대화_프로5",
+    "impressions": 409,
+    "clicks": 44,
+    "revenue": 0
+  }
+]
